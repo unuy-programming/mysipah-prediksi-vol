@@ -1,0 +1,10 @@
+﻿Tanggal;Jenis Sampah;Volume Sampah (kg);Suhu (°C);Hari Libur
+01/01/23;Organik;120;25;1
+02/01/23;Anorganik;83;23;0
+03/01/23;Organik;70;27;0
+04/01/23;Organik;100;28;1
+05/01/23;Organik;78;25;1
+06/01/23;Anorganik;90;23;0
+07/01/23;Organik;88;27;0
+08/01/23;Organik;110;28;1
+09/01/23;Anorganik;65;23;1
